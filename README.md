@@ -1,9 +1,9 @@
 # Carro Autónomo Arduino
 <p align=justify>Carro de conducción autónoma mediante shell controlador de motores y uso del sensor ultrasónico, se diseñó con fines de aprendizaje, como parte de las actividades del tiempo libre durante la Pandemia del 2020. Forma parte del desarrollo de ITIC en ITSOEH, y se presenta como proyecto interno para su evaluación y para publicación de documentos tipo papers.</p>
 
-![GitHub](https://img.shields.io/github/license/ChristianECG/CarroAutonomoArduino)
-![GitHub followers](https://img.shields.io/github/followers/ChristianECG?label=Follow)
-![Twitter Follow](https://img.shields.io/twitter/follow/ChristianECG_?label=Follow)
+[![GitHub](https://img.shields.io/github/license/ChristianECG/CarroAutonomoArduino)](LICENSE)
+[![GitHub followers](https://img.shields.io/github/followers/ChristianECG?label=Follow)](https://github.com/ChristianECG)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ChristianECG_?label=Follow)](https://twitter.com/ChristianECG_)
 
 ## Comenzando :rocket:
 
@@ -39,7 +39,7 @@ Desarrollado por: Christian Elías Cruz González.
 
 ## Licencia :page_facing_up:
 
-Este proyecto está bajo la Licencia MIT - mira el archivo <a href='https://github.com/ChristianECG/CarroAutonomoArduino/blob/master/LICENSE'>LICENSE.md</a> para más detalles
+Este proyecto está bajo la Licencia MIT - mira el archivo <a href='LICENSE'>LICENSE.md</a> para más detalles
 
 ## Expresiones de Gratitud :gift:
 
