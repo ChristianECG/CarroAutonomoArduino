@@ -3,5 +3,10 @@ Carro de conducción autónoma mediante shell controlador de motores y uso del s
 
 Desarrollado por: Christian Elías Cruz González.
 
+![GitHub](https://img.shields.io/github/license/ChristianECG/CarroAutonomoArduino)
+![GitHub followers](https://img.shields.io/github/followers/ChristianECG?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/ChristianECG_?label=Follow)
+
+<br>
 
 ![Diagrama](Diagrama.png)
