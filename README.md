@@ -7,6 +7,20 @@ Desarrollado por: Christian Elías Cruz González.
 ![GitHub followers](https://img.shields.io/github/followers/ChristianECG?label=Follow)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChristianECG_?label=Follow)
 
+## Comenzando :rocket:
+
+Para poder replicar este proyecto necesitarás:
+
+* Un arduino UNO
+* Un shell controlador de motores
+* Un sensor ultrasónico
+* Un servomotor
+* Un switch
+* Cuatro motores con llantas
+* Leds (Para este modelo se utilizan 3 rojos y 3 verdes).
+
+El siguiente diagrama ilustra la forma en que deben realizarse las conexiones necesarias.
+
 <br>
 
 ![Diagrama](Diagrama.png)
