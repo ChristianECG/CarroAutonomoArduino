@@ -1,7 +1,5 @@
 # Carro Autónomo Arduino
-Carro de conducción autónoma mediante shell controlador de motores y uso del sensor ultrasónico, se diseñó con fines de aprendizaje, como parte de las actividades del tiempo libre durante la Pandemia del 2020. Forma parte del desarrollo de ITIC en ITSOEH, y se presenta como proyecto interno para su evaluación y para publicación de documentos tipo papers.
-
-Desarrollado por: Christian Elías Cruz González.
+<p align=justify>Carro de conducción autónoma mediante shell controlador de motores y uso del sensor ultrasónico, se diseñó con fines de aprendizaje, como parte de las actividades del tiempo libre durante la Pandemia del 2020. Forma parte del desarrollo de ITIC en ITSOEH, y se presenta como proyecto interno para su evaluación y para publicación de documentos tipo papers.</p>
 
 ![GitHub](https://img.shields.io/github/license/ChristianECG/CarroAutonomoArduino)
 ![GitHub followers](https://img.shields.io/github/followers/ChristianECG?label=Follow)
@@ -19,8 +17,33 @@ Para poder replicar este proyecto necesitarás:
 * Cuatro motores con llantas
 * Leds (Para este modelo se utilizan 3 rojos y 3 verdes).
 
-El siguiente diagrama ilustra la forma en que deben realizarse las conexiones necesarias.
+El siguiente diagrama ilustra la forma en que deben realizarse las conexiones necesarias:
 
-<br>
+<img src=Diagrama.png width=70%>
 
-![Diagrama](Diagrama.png)
+## Instalación :wrench:
+
+Para empezar a trabajar con este código, necesitarás haber instalado el IDE de arduino, en https://www.arduino.cc/en/main/software
+
+Estando en la terminal de tu sistema educativo, ejecuta los siguientes comandos:
+
+<code>git clone git@github.com:ChristianECG/CarroAutonomoArduino.git</code><br>
+<code>cd CarroAutonomoArduino</code><br>
+<code>arduino CarroAutonomoArduino.ino</code><br>
+
+Estás listo para trabajar con el proyecto actual.
+
+## Autores :black_nib:
+
+Desarrollado por: Christian Elías Cruz González.
+
+## Licencia :page_facing_up:
+
+Este proyecto está bajo la Licencia MIT - mira el archivo <a href='https://github.com/ChristianECG/CarroAutonomoArduino/blob/master/LICENSE'>LICENSE.md</a> para más detalles
+
+## Expresiones de Gratitud :gift:
+
+* Comenta a otros sobre este proyecto :loudspeaker:
+* Invita una cerveza :beer: o un café :coffee: a alguien del equipo.
+* Da las gracias públicamente :nerd_face:.
+* etc.
