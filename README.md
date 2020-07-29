@@ -25,7 +25,7 @@ El siguiente diagrama ilustra la forma en que deben realizarse las conexiones ne
 
 Para empezar a trabajar con este código, necesitarás haber instalado el IDE de arduino, en https://www.arduino.cc/en/main/software
 
-Estando en la terminal de tu sistema educativo, ejecuta los siguientes comandos:
+Estando en la terminal de tu sistema operativo, ejecuta los siguientes comandos:
 
 <code>git clone git@github.com:ChristianECG/CarroAutonomoArduino.git</code><br>
 <code>cd CarroAutonomoArduino</code><br>
