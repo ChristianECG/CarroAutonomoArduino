@@ -5,6 +5,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/ChristianECG?label=Follow)](https://github.com/ChristianECG)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ChristianECG_?label=Follow)](https://twitter.com/ChristianECG_)
 
+<img src='Foto.jpg' width=70%>
+
 ## Comenzando :rocket:
 
 Para poder replicar este proyecto necesitarás:
